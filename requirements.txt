@@ -1,0 +1,14 @@
+ SOFTWARE AND VERSION COMPATIBILITY:
+		Recommended version : Python 3.8 to Python 3.10
+		Currently used version: Python 3.10
+
+Avoid using 3.11 and further versions because:
+    dlib and face_recognition often fail to install
+    Pre-built wheels not always available
+
+Library Versions:
+    face_recognition
+    dlib
+    OpenCV
+    NumPy
+    Tkinter
